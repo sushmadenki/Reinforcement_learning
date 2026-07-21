@@ -1,5 +1,4 @@
-MUSEUM THIEF — RESULTS FOLDER
-PADM Project A, THI Ingolstadt SS26
+MUSEUM THIEF
 ==================================================
 
 q_table.npy               — trained Q-table (11x11x2x4 = 968 values)
